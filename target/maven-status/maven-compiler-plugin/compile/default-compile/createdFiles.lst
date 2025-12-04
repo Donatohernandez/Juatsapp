@@ -1,0 +1,7 @@
+com\mycompany\juatsapp\FrmLogin.class
+com\mycompany\juatsapp\FrmChat.class
+com\mycompany\juatsapp\FrmRegistro.class
+com\mycompany\juatsapp\Main.class
+com\mycompany\juatsapp\EncryptUtil.class
+com\mycompany\juatsapp\MongoDBConnection.class
+com\mycompany\juatsapp\UserDAO.class
