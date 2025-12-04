@@ -20,6 +20,7 @@ public class User {
     public User() {
     }
 
+    
     public User(String phone, String passwordHash, Date birthDate,
                 String address, String sex) {
         this.phone = phone;
